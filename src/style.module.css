@@ -72,9 +72,9 @@ footer {
   color: rgb(57, 57, 57);
 }
 
-.bottom p {
+/* .bottom p {
   overflow-x: scroll;
-}
+} */
 
 .top h3 {
   padding: 0 1rem;
